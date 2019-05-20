@@ -1,7 +1,3 @@
-# VaxeTurkiye-Dosyalari
-VaxeTurkiye 2017.11.23 Acilmistir ve Para Olmadi icin Kapanmistir.Bu Botu Yapimcisi  xChairs#4713 Yeni Botumuz Olan Hanjer Eklemek Icin : https://bit.ly/2s6FOBF Discord Bots Oy Vermek Icin : https://bit.ly/2IVjVPO
-Github'da yayınlanan Türkçe, Discord Bot Dosyasi
-
 Kurulum
 1. Kurulum için gereken programlar:
 Node.JS
